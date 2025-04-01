@@ -16,4 +16,7 @@ dist/
 build/
 
 # Arquivos de cache
-.cache/ 
+.cache/
+
+# Arquivos de autenticação
+.wwebjs_auth/ 
